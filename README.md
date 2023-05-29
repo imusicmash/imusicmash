@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This is Al. I'm a product manager.
 <!--
 **imusicmash/imusicmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
