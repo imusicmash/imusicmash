@@ -7,6 +7,9 @@ This is Al. I'm a product manager.
 - ⚡ Fun fact: I've been a data-products focused product manager for some time. I also spent 6 years as a data scientist
 - 💻 I'm fairly adept at coding with Python, R, Java, Javascript, or SQL
 - 💡 I'm enjoying innovating with modern AI and ML
+- ⚡ Fun fact 2: The name _imusicmash_ was the name of an iPhone app I wrote in 2008 to blend my iTunes library, Youtube, concert info, and lyrics.
+
+
 
 <!--
 **imusicmash/imusicmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
